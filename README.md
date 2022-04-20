@@ -1,5 +1,3 @@
-Naam: Maarten Antonius Henricus van den Meerakker 
-Github UserID: MahMeer 
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
